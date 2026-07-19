@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm krisna.py</h1>
-  <h3>Information Technology Student | Full-Stack Developer | Entrepreneur</h3>
+  <h3>Information Technology Student </h3>
   <img src="https://komarev.com/ghpvc/?username=IPutuKrisnaPramanaYuda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
@@ -13,12 +13,7 @@
 <br/>
 
 ### About Me
-- Currently studying as an **Information Technology Student**.
-- Founder of **Ramaja Coffee** (developed a custom POS and Inventory system) and **Tridatu Visuals** (Photography and Videography services).
-- Experienced in web and mobile application development, workflow automation, and UI/UX design.
-- Actively participated in security programs such as the **Bali Public Bug Hunter**.
-- Currently focusing on developing full-scale applications, including **BISA (Bengkala Interactive Smart Assistant)**, and the physical expansion of Ramaja Coffee in Seririt, Buleleng.
-
+- Currently studying as an **Information Technology Student** and Just Tech Enjoyer.
 ---
 
 ### Tech Stack & Tools
